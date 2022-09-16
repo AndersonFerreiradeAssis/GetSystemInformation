@@ -1,0 +1,6 @@
+This is a C++ program to get information about the system
+
+Hardware information: 
+
+Number of processors: 4
+Processor type: 8664
